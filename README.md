@@ -4,8 +4,8 @@ Den här application hjälper för att hämta flera LOG filer och letar efter an
 
 Det som behövs för att köra programmet:
 
-####Java 8
-####Maven
+*Java 8
+*Maven
 
 ##Installation
 Navigera SAVE_FILE_NAME som finns i Run.java class filen till din destination som vill filen sparas och ger ett namn till det.
