@@ -1,6 +1,6 @@
-# FileReader To Excel
+# Räkna antal inloggning från Loggfiler till en excel fil
 
-Den här application hjälper för att hämta flera LOG filer och letar efter användarens namn och räkna antal inloggning.
+Den här Java applikation söker igenom flera LOG filer i en och samma gång och går igenom alla filer och letar efter användarens namn och räkna antal inloggning och därefter sorterar dem i en lista med filensnamn och sparar i en excel fil.
 
 Det som behövs för att köra programmet:
 
